@@ -4,6 +4,9 @@ Designed and scripted by 0ctothorpe and r0b0h0b0 on the "Blank Table" Template.
 
 This work was created with the intent that it would be used in accessory to the aforementioned franchise and will neither harm the author's sales or reputation nor detract from the overall experience of their product. "Splatoon3" TM and related images, characters, music, and other content are Copyright and are property of Nintendo.
 
+![screenshot of running table](https://github.com/KJ5CYM/Splatoon-Pinball/blob/main/Capture.png "table")
+
+
 To play this table, get the latest version of visual pinball from here: https://www.vpforums.org/index.php?app=downloads&showfile=11572
 Then, grab the latest .VPX file from this repositorie's releases and drop it into your "C:\Program Files\Visual Pinball\tables" directory.
 Launch VPX
