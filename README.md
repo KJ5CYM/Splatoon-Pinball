@@ -7,12 +7,12 @@ This work was created with the intent that it would be used in accessory to the 
 ![screenshot of running table](https://github.com/KJ5CYM/Splatoon-Pinball/blob/main/Capture.PNG)
 
 
-*To play this table, get the latest version of visual pinball from here: https://www.vpforums.org/index.php?app=downloads&showfile=11572
-*Then, grab the latest .VPX file from this repository and drop it into your "C:\Program Files\Visual Pinball\tables" directory.
-*Launch VPX
-*File > Open
-*Play
-*Have Fun!
+(*)To play this table, get the latest version of visual pinball from here: https://www.vpforums.org/index.php?app=downloads&showfile=11572
+(*)Then, grab the latest .VPX file from this repository and drop it into your "C:\Program Files\Visual Pinball\tables" directory.
+(*)Launch VPX
+(*)File > Open
+(*)Play
+(*)Have Fun!
 
 Detailed instructions on how to play:
 --------------------------------------------------------------------------
