@@ -40,4 +40,4 @@ This is the alternative way to light the central spot target for an extra ball. 
 Kicksaves (non-traditional):
 This table features different kicksaves than you're probably used to. The right rail activates the right one and you could probably guess that the left rail lights- you know what I'm about to say. When your ball goes down the outlane, it will lock into a kicker beneath your flipper. You will need to raise your flipper so that the ball can be safely launched through that space. If you die when a kicksave is lit, You will be allowed to plunge straight to the upper deck and avoid purgutory. 
 
-Look at the script if you want to begin to try and understand the exact points associated with things. Best of luck to you; my naming convention sucks.
+Look at the script if you want to begin to try and understand the exact points associated with things. Best of luck to you; my variable naming convention sucks.
